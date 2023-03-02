@@ -1,0 +1,15 @@
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\obj\Debug\net6.0\Sem5Task34.csproj.AssemblyReference.cache
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\obj\Debug\net6.0\Sem5Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\obj\Debug\net6.0\Sem5Task34.AssemblyInfoInputs.cache
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\obj\Debug\net6.0\Sem5Task34.AssemblyInfo.cs
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\obj\Debug\net6.0\Sem5Task34.csproj.CoreCompileInputs.cache
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\bin\Debug\net6.0\Sem5Task34.exe
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\bin\Debug\net6.0\Sem5Task34.deps.json
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\bin\Debug\net6.0\Sem5Task34.runtimeconfig.json
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\bin\Debug\net6.0\Sem5Task34.dll
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\bin\Debug\net6.0\Sem5Task34.pdb
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\obj\Debug\net6.0\Sem5Task34.dll
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\obj\Debug\net6.0\refint\Sem5Task34.dll
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\obj\Debug\net6.0\Sem5Task34.pdb
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\obj\Debug\net6.0\Sem5Task34.genruntimeconfig.cache
+C:\Users\Ev-pi\Desktop\Homework5\homework5\Sem5Task34\obj\Debug\net6.0\ref\Sem5Task34.dll
